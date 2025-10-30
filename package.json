@@ -1,0 +1,14 @@
+{
+  "name": "variable-objects-site",
+  "version": "1.0.0",
+  "description": "Animated React (ESM) marketing site for Variable Objects IoT studio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python3 -m http.server 4173"
+  },
+  "keywords": [],
+  "author": "Variable Objects",
+  "license": "MIT",
+  "type": "commonjs"
+}
