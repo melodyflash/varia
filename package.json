@@ -1,0 +1,12 @@
+{
+  "name": "varia",
+  "version": "1.0.0",
+  "description": "Variable Objects art-forward IoT landing experience",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "build": "echo 'Static site - ready to deploy'"
+  },
+  "keywords": ["iot", "react", "landing-page", "variable-objects"],
+  "author": "Variable Objects",
+  "license": "MIT"
+}
